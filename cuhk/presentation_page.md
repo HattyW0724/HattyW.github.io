@@ -43,7 +43,7 @@ Data source: NYT's official <a href="https://developer.nytimes.com/">API</a> AND
 ### 1.2. Premilinary analysis
 
 **Top 10 frequenciest word in the data (partially)**
- keywords  frequency
+          keywords  frequency
 > 0.        media         65
 > 1.       social         63
 > 2.     facebook         27
@@ -68,6 +68,11 @@ Via Nvivo, I did sentimental analysis (negative/positive) about the content :
 
 ![Alt text](https://github.com/HattyW0724/HattyW.github.io/blob/master/Matrix%20Coding%20Query%20-%20Results%20Preview%20.jpg "Sentimental analysis via Nvivo")
   
+
+### 1.4. Insights
+
+Activity Theory
+
 
 ## 2. Other studies I have contributed
 
