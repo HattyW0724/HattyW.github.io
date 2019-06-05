@@ -31,16 +31,16 @@ Data source: NYT's official <a href="https://developer.nytimes.com/">API</a> AND
 > 3.  Sample capacity: 150 items
 
 <pre><code>
-
 &gt; api_url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?q=social+media&page=3&api-key=2J6odNdJ0Ui0WUzOamvvk4NmCtbG1W50'
 &gt; response = requests.get(api_url)
 &gt; data_# = response.json() # 10 items per page, 1 page per time.
 </code></pre>
 
 
-### 1.2. Premilinary analysis
+<a href="https://github.com/HattyW0724/HattyW.github.io/blob/master/adolescents'%20social%20media%20use_TheNewYorkTimes.ipynb">Json script translation</a>
 
-(omit)
+
+### 1.2. Premilinary analysis
 
 **Top 10 frequenciest word in the data (partially)**
  keywords  frequency
@@ -70,10 +70,10 @@ Via Nvivo, I did sentimental analysis (negative/positive) about the content
   
 
 ## 2. Other studies I have contributed
-<\n>
+
 ![Alt text](https://github.com/HattyW0724/HattyW.github.io/blob/master/Image%20from%20WangQile_Citizen%20Journalism%20and%20Professional%20Journalism%20(1)%20copy%2C%20page%2015.png "PJ & CJ")
 
-<\n>
+
 > 1.  Wang, Q., Zhang, X., & Man, Z. (2018). Survey of content production in Hong Kong Media.
 In Li, R. & Huang, Y. (eds), Hong Kong digital media development report 2018 (pp. 224–247). Hong Kong: Chung Hwa Press.
 > 2.  <a href="https://github.com/HattyW0724/HattyW.github.io/blob/master/WANG%20Qile%20_PJ%26CJ.pdf">Individual course project</a>
