@@ -4,7 +4,7 @@ This page is to introduce the recent studies I contributed to by using server lo
 
 ## 1. PPR Scheme: a exploratory media analysis - set The New York Times as example
 
-###1.1. Background: 
+### 1.1. Background: 
   
   Today, global children and adolescents are growing up with the rapid change of digital age, and the need for digital literacy is increasingly shaping young people’s life and learning (Linebarger & Piotrowski, 2009; Flewitt, 2011; Alper, n.d.). “For better and for worse, digital technology is now an irreversible fact of our lives,” quoted Anthony Lake, Executive Director of the United Nations International Children’s Emergency Fund (UNICEF, 2017, p.v), and with a kaleidoscope of functions, mobile phone, especially smartphone, has become an integral part of social and daily life for children and adolescents in the digital age. Like other digital devices, smartphones are becoming “the tools for communication, collaboration, social networking, and user-generated content” (NAEYC & Fred Rogers Center, 2012) for young. However, according to “¬¬”, which is one of UNICEF’s annual publication uncovering the role of digital technology in helping and hindering global children’s learning and well-being, young people have relied excessively on smartphones to go online, in comparison with other digital devices such as desktops, laptops, tablets and games consoles.  In addition, “the Global Kids Online Research Synthesis 2015-2016”, published by UNICEF Office of Research – Innocenti, also found that “children predominantly and mostly access the internet at home through smartphones” (UNICEF & Byrne et al., 2016, p.8).  
  
@@ -42,7 +42,7 @@ Data source: NYT's official <a href="https://developer.nytimes.com/">API</a> AND
 
 (omit)
 
-**Top 30 frequenciest word in the data**
+**Top 25 frequenciest word in the data**
  keywords  frequency
 > 0.        media         65
 > 1.       social         63
@@ -69,11 +69,9 @@ Data source: NYT's official <a href="https://developer.nytimes.com/">API</a> AND
 > 22.      online          7
 > 23.         ago          7
 > 24.   political          7
-> 25.     readers          7
-> 26.     million          7
-> 27.        past          6
-28       world          6
-29    accounts          6
+
+note: by using NLTK package to analyze wordfrequency. <a href="https://github.com/HattyW0724/HattyW.github.io/blob/master/NYT_social_media_FreqDist%20(NLTK).ipynb">Code</a>
+
 
 ![Alt text](NYT_wordcloud.png “<p>wordcloud.WordCloud()</p> to show the word frequency")
 
