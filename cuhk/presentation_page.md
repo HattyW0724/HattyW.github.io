@@ -8,7 +8,7 @@ This page is to introduce the recent studies I contributed to by using server lo
   
   Today, global children and adolescents are growing up with the rapid change of digital age, and the need for digital literacy is increasingly shaping young people’s life and learning (Linebarger & Piotrowski, 2009; Flewitt, 2011; Alper, n.d.). “For better and for worse, digital technology is now an irreversible fact of our lives,” quoted Anthony Lake, Executive Director of the United Nations International Children’s Emergency Fund (UNICEF, 2017, p.v), and with a kaleidoscope of functions, mobile phone, especially smartphone, has become an integral part of social and daily life for children and adolescents in the digital age. Like other digital devices, smartphones are becoming “the tools for communication, collaboration, social networking, and user-generated content” (NAEYC & Fred Rogers Center, 2012) for young. However, according to “¬¬”, which is one of UNICEF’s annual publication uncovering the role of digital technology in helping and hindering global children’s learning and well-being, young people have relied excessively on smartphones to go online, in comparison with other digital devices such as desktops, laptops, tablets and games consoles.  In addition, “the Global Kids Online Research Synthesis 2015-2016”, published by UNICEF Office of Research – Innocenti, also found that “children predominantly and mostly access the internet at home through smartphones” (UNICEF & Byrne et al., 2016, p.8).  
  
- ![Alt text](https://github.com/HattyW0724/HattyW.github.io/blob/master/%5Bgap%5D%20Systematic%20reviews%20about%20adolescents'%20phone%20use%20.png "Literature review about the academic's concerns")
+![Alt text](https://github.com/HattyW0724/HattyW.github.io/blob/master/%5Bgap%5D%20Systematic%20reviews%20about%20adolescents'%20phone%20use%20.png "Literature review about the academic's concerns")
 
   
   As the essential role speaking out the voice of digital use's importance, how professional media insights about the issue can reflect vividly about society's concern and the stockholders attitudes who are from diverse corners in society.
@@ -31,7 +31,7 @@ Data source: NYT's official <a href="https://developer.nytimes.com/">API</a> AND
 > 3.  Sample capacity: 150 items
 
 <pre><code>
-====================
+
 &gt; api_url = 'https://api.nytimes.com/svc/search/v2/articlesearch.json?q=social+media&page=3&api-key=2J6odNdJ0Ui0WUzOamvvk4NmCtbG1W50'
 &gt; response = requests.get(api_url)
 &gt; data_# = response.json() # 10 items per page, 1 page per time.
@@ -54,7 +54,6 @@ Data source: NYT's official <a href="https://developer.nytimes.com/">API</a> AND
 > 7.         tech         11
 > 8.        times         11
 > 9.      company         11
-> 10.   instagram         10
 
 
 note: by using NLTK package to analyze wordfrequency. <a href="https://github.com/HattyW0724/HattyW.github.io/blob/master/NYT_social_media_FreqDist%20(NLTK).ipynb">Code</a>
@@ -71,7 +70,10 @@ Via Nvivo, I did sentimental analysis (negative/positive) about the content
   
 
 ## 2. Other studies I have contributed
-![Alt text (https://github.com/HattyW0724/HattyW.github.io/blob/master/Image%20from%20WangQile_Citizen%20Journalism%20and%20Professional%20Journalism%20(1)%20copy%2C%20page%2015.png)
+<\n>
+![Alt text](https://github.com/HattyW0724/HattyW.github.io/blob/master/Image%20from%20WangQile_Citizen%20Journalism%20and%20Professional%20Journalism%20(1)%20copy%2C%20page%2015.png "PJ & CJ")
+
+<\n>
 > 1.  Wang, Q., Zhang, X., & Man, Z. (2018). Survey of content production in Hong Kong Media.
 In Li, R. & Huang, Y. (eds), Hong Kong digital media development report 2018 (pp. 224–247). Hong Kong: Chung Hwa Press.
-> 2.   <a href="https://github.com/HattyW0724/HattyW.github.io/blob/master/WANG%20Qile%20_PJ%26CJ.pdf">API</a> （Individual course project)  
+> 2.  <a href="https://github.com/HattyW0724/HattyW.github.io/blob/master/WANG%20Qile%20_PJ%26CJ.pdf">Individual course project</a>
