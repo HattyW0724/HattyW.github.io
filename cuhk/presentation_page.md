@@ -42,7 +42,7 @@ Data source: NYT's official <a href="https://developer.nytimes.com/">API</a> AND
 
 (omit)
 
-**Top 25 frequenciest word in the data**
+**Top 10 frequenciest word in the data (partially)**
  keywords  frequency
 > 0.        media         65
 > 1.       social         63
@@ -55,20 +55,7 @@ Data source: NYT's official <a href="https://developer.nytimes.com/">API</a> AND
 > 8.        times         11
 > 9.      company         11
 > 10.   instagram         10
-> 11.       video         10
-> 12.    internet         10
-> 13.   president          9
-> 14.       trump          9
-> 15.        york          9
-> 16.       women          9
-> 17.   platforms          8
-> 18.       month          8
-> 19.      health          7
-> 20.    industry          7
-> 21.     tuesday          7
-> 22.      online          7
-> 23.         ago          7
-> 24.   political          7
+
 
 note: by using NLTK package to analyze wordfrequency. <a href="https://github.com/HattyW0724/HattyW.github.io/blob/master/NYT_social_media_FreqDist%20(NLTK).ipynb">Code</a>
 
@@ -85,9 +72,8 @@ Via Nvivo, I did sentimental analysis (negative/positive) about the content
 
 ## 2. Other studies I have contributed
 
-![Alt text]（Image from WangQile_Citizen Journalism and Professional Journalism (1) copy, page 15.png "**Map** Professional Journalism vs Citizen Journalism on Twittersphere - #breakingnews")
+![Alt text]（https://github.com/HattyW0724/HattyW.github.io/blob/master/Image%20from%20WangQile_Citizen%20Journalism%20and%20Professional%20Journalism%20(1)%20copy%2C%20page%2015.png "Map_Professional Journalism vs Citizen Journalism on Twittersphere - #breakingnews")
 
 > 1.  Wang, Q., Zhang, X., & Man, Z. (2018). Survey of content production in Hong Kong Media.
 In Li, R. & Huang, Y. (eds), Hong Kong digital media development report 2018 (pp. 224–247). Hong Kong: Chung Hwa Press.
-> 2.   <a href="https://github.com/HattyW0724/HattyW.github.io/blob/master/WANG%20Qile%20_PJ%26CJ.pdf">API</a> （Individual course project)
-> 3.  
+> 2.   <a href="https://github.com/HattyW0724/HattyW.github.io/blob/master/WANG%20Qile%20_PJ%26CJ.pdf">API</a> （Individual course project)  
