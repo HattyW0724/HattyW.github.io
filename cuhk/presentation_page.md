@@ -59,7 +59,7 @@ Data source: NYT's official <a href="https://developer.nytimes.com/">API</a> AND
 note: by using NLTK package to analyze wordfrequency. <a href="https://github.com/HattyW0724/HattyW.github.io/blob/master/NYT_social_media_FreqDist%20(NLTK).ipynb">Code</a>
 
 
-![Alt text](NYT_wordcloud.png “<p>wordcloud.WordCloud()</p> to show the word frequency")
+![Alt text](https://github.com/HattyW0724/HattyW.github.io/blob/master/NYT_wordcloud.png “wordcloud.WordCloud to show the word frequency")
 
 
 ### 1.3. Advanced analysis
