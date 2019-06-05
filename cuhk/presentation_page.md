@@ -14,7 +14,7 @@ This page is to introduce the recent studies I contributed to by using server lo
   As the essential role speaking out the voice of digital use's importance, how professional media insights about the issue can reflect vividly about society's concern and the stockholders attitudes who are from diverse corners in society.
   For a better understanding about the society's careness about digital youth's digital or social media use, and make a pre-test for further study on the correlation between media's broadcast and views from parents,educators as well as academys, as the research assistant in the Department of Education Studies, HKBU, I made a preliminary and exploratory analysis, setting The New York Times as example.
   
-###1.2. Approaches:
+ Approaches:
 
 > 1.   **Python** with modules to do web scraping, preliminary content analysis (word frequency AND part of speach labels) and data visualization
 > 2.   **Tableau**
@@ -71,9 +71,7 @@ Via Nvivo, I did sentimental analysis (negative/positive) about the content
   
 
 ## 2. Other studies I have contributed
-
-![Alt text]（https://github.com/HattyW0724/HattyW.github.io/blob/master/Image%20from%20WangQile_Citizen%20Journalism%20and%20Professional%20Journalism%20(1)%20copy%2C%20page%2015.png "Map_Professional Journalism vs Citizen Journalism on Twittersphere - #breakingnews")
-
+![Alt text (https://github.com/HattyW0724/HattyW.github.io/blob/master/Image%20from%20WangQile_Citizen%20Journalism%20and%20Professional%20Journalism%20(1)%20copy%2C%20page%2015.png)
 > 1.  Wang, Q., Zhang, X., & Man, Z. (2018). Survey of content production in Hong Kong Media.
 In Li, R. & Huang, Y. (eds), Hong Kong digital media development report 2018 (pp. 224–247). Hong Kong: Chung Hwa Press.
 > 2.   <a href="https://github.com/HattyW0724/HattyW.github.io/blob/master/WANG%20Qile%20_PJ%26CJ.pdf">API</a> （Individual course project)  
