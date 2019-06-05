@@ -64,7 +64,7 @@ note: by using NLTK package to analyze wordfrequency. <a href="https://github.co
 
 ### 1.3. Advanced analysis
 
-Via Nvivo, I did sentimental analysis (negative/positive) about the content 
+Via Nvivo, I did sentimental analysis (negative/positive) about the content :
 
 ![Alt text](https://github.com/HattyW0724/HattyW.github.io/blob/master/Matrix%20Coding%20Query%20-%20Results%20Preview%20.jpg "Sentimental analysis via Nvivo")
   
